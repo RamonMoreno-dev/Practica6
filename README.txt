@@ -1,5 +1,3 @@
 Estado del proyecto: versión principal y experimental 
-Funcionalidadess
-
-
+Funcionalidades
 Nueva funcionalidad añadida
