@@ -1,2 +1,3 @@
 Estado del proyecto: versión principal y experimental 
-Funcionalidades
+Funcionalidadess
+Nueva funcionalidad añadida
